@@ -3,7 +3,7 @@
 ## Exam Overview
 - **Skills measured:** Workflows, runners, secrets, reusable actions, deployment, security
 - **Format:** ~40–60 questions, passing score 700/1000
-- **Duration:** 2 weeks (May 30 – Jun 13)
+- **Duration:** 2 weeks (May 23 – Jun 6)
 
 ## Domain Weights
 
@@ -16,8 +16,8 @@
 
 ## Progress
 
-- [ ] Week 7 — Workflows & Actions (May 30 – Jun 5)
-- [ ] Week 8 — CD, Security & Exam Prep (Jun 6–13)
+- [ ] Week 6 — Workflows & Actions (May 23–29)
+- [ ] Week 7 — CD, Security & Exam Prep (May 30 – Jun 6)
 - [ ] Mock Exam #1
 - [ ] Mock Exam #2
 - [ ] Exam Passed ✅

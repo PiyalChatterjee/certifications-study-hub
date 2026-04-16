@@ -3,7 +3,7 @@
 ## Exam Overview
 - **Skills measured:** Azure AI services, NLP, vision, document intelligence, responsible AI
 - **Format:** ~40–60 questions, passing score 700/1000
-- **Duration:** 3 weeks (May 9 – May 29)
+- **Duration:** 3 weeks (May 1 – May 22)
 
 ## Domain Weights
 
@@ -18,9 +18,9 @@
 
 ## Progress
 
-- [ ] Week 4 — AI Services & NLP (May 9–15)
-- [ ] Week 5 — Vision, Search & Document Intelligence (May 16–22)
-- [ ] Week 6 — Responsible AI & Exam Prep (May 23–29)
+- [ ] Week 3 — AI Services & NLP (May 1–7)
+- [ ] Week 4 — Vision, Search & Document Intelligence (May 8–14)
+- [ ] Week 5 — Responsible AI & Exam Prep (May 15–22)
 - [ ] Mock Exam #1
 - [ ] Mock Exam #2
 - [ ] Exam Passed ✅
