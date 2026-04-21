@@ -3,8 +3,8 @@
 ## Week 1 — AI Concepts & Azure AI Services
 | Date | Topic | Status | Notes |
 |------|-------|--------|-------|
-| Apr 17 | What is AI? ML concepts | ⬜ | |
-| Apr 18 | Azure AI Services overview | ⬜ | |
+| Apr 17 | What is AI? ML concepts | ✅ | Quiz 1: 25/25 |
+| Apr 18 | Azure AI Services overview | 🔄 | Notes + Quiz 2 created |}
 | Apr 19 | Computer Vision — classification, detection, OCR | ⬜ | |
 | Apr 20 | Quiz: AI Concepts & Computer Vision | ⬜ | Score: |
 | Apr 21 | Review weak areas | ⬜ | |
